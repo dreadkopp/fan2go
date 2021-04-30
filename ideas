@@ -1,4 +1,4 @@
-settable max PWM/RPM for Fans
+settable max PWM/RPM for Fans (ignore when > max temp)
 sensors combinable (i.e. Case Fan via max(cpu.sensor,gpu.sensor) or median)
 
 api / socket / whatever for:
