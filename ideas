@@ -1,0 +1,11 @@
+settable max PWM/RPM for Fans
+sensors combinable (i.e. Case Fan via max(cpu.sensor,gpu.sensor) or median)
+
+api / socket / whatever for:
+  - stats db
+  - current readouts
+  - currently loaded config
+
+external:
+
+graphical interface for config and monitoring
