@@ -6,6 +6,8 @@ api / socket / whatever for:
   - current readouts
   - currently loaded config
 
+when initializing, eject and go full throttle if one configured sensor overheats
+
 external:
 
 graphical interface for config and monitoring
